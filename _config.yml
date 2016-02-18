@@ -1,0 +1,14 @@
+layout_spectrum: 0.8908582
+typography_spectrum: 0.4081898
+color:
+  saturation: 0.3158606
+  lightness: 0.730715
+  brandStrength: 0.384638
+  brandColors:
+    - '#041830'
+    - '#0191A3'
+    - '#6F6E9B'
+    - '#FBFDFF'
+    - '#42CFDF'
+  rhythmicContrast: 0.4084478
+name: kenlampinen
