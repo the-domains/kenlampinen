@@ -25,7 +25,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.macstories.net/'
 title: "Apple standing up for its customers' privacy"
-datePublished: '2016-03-04T06:24:31.853Z'
+datePublished: '2016-03-04T06:24:29.589Z'
 dateModified: '2016-02-18T15:24:11.618Z'
 sourcePath: _posts/2016-03-04-apple-standing-up-for-its-customers-privacy.md
 published: true
