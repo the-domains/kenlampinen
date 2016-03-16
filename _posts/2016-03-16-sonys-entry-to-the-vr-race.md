@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T08:42:30.728Z'
-dateModified: '2016-03-16T08:42:10.582Z'
+datePublished: '2016-03-16T08:45:32.530Z'
+dateModified: '2016-03-16T08:45:29.616Z'
 author: []
 title: "Sony's Strong Entry into VR"
 sourcePath: _posts/2016-03-16-sonys-entry-to-the-vr-race.md
@@ -23,8 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab1dc976-cc65-4295-ba0e-cb2a1169ee31.jpg)
-
 # Sony's Strong Entry into VR
 
 <article style=""><h1>Sony's Playstation Virtual Reality Headset to Arrive in October for &amp;dollar;399</h1><p>Sony said its virtual reality headset&amp;comma; the Playstation VR&amp;comma; will go on sale in October and will cost &amp;dollar;399 in the U&amp;period;S&amp;period; -- significantly less than the &amp;dollar;600 Oculus Rift or the &amp;dollar;800 Vive made by HTC and Valve&amp;period;</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21e02d7d-4b45-4e39-8681-8c745a9bcfeb.jpg)
