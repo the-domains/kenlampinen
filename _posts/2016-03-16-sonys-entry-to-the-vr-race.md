@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-16T08:39:11.313Z'
-dateModified: '2016-03-16T08:35:34.479Z'
+datePublished: '2016-03-16T08:40:25.814Z'
+dateModified: '2016-03-16T08:40:12.195Z'
 author: []
 title: "Sony's Strong Entry into VR"
 sourcePath: _posts/2016-03-16-sonys-entry-to-the-vr-race.md
